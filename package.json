@@ -1,0 +1,24 @@
+{
+  "name": "bookstoreapi",
+  "version": "1.0.0",
+  "description": "This is simple bookstore Api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudhir14107/bookStoreAPI.git"
+  },
+  "author": "Sudhir Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudhir14107/bookStoreAPI/issues"
+  },
+  "homepage": "https://github.com/sudhir14107/bookStoreAPI#readme",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "mongoose": "*"
+  }
+}
